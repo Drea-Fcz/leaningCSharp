@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/bin/Debug/net6.0/Methods
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/bin/Debug/net6.0/Methods.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Methods/obj/Debug/net6.0/ref/Methods.dll

@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/bin/Debug/net6.0/Arrays
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/Arrays/obj/Debug/net6.0/ref/Arrays.dll

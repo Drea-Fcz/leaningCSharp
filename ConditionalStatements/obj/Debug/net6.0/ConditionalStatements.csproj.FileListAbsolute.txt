@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/bin/Debug/net6.0/ConditionalStatements.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/refint/ConditionalStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ConditionalStatements.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ConditionalStatements/obj/Debug/net6.0/ref/ConditionalStatements.dll

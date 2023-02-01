@@ -1,0 +1,5 @@
+/Users/audreyfcz/Documents/C#/LearningProject/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache

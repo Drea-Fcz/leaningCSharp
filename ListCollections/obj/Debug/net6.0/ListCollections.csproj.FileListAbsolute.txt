@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/bin/Debug/net6.0/ListCollections
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/bin/Debug/net6.0/ListCollections.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/bin/Debug/net6.0/ListCollections.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/bin/Debug/net6.0/ListCollections.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/bin/Debug/net6.0/ListCollections.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/refint/ListCollections.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ListCollections.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ListCollections/obj/Debug/net6.0/ref/ListCollections.dll

@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/bin/Debug/net6.0/RepetionStatements
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/bin/Debug/net6.0/RepetionStatements.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/bin/Debug/net6.0/RepetionStatements.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/bin/Debug/net6.0/RepetionStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/bin/Debug/net6.0/RepetionStatements.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/refint/RepetionStatements.dll
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/RepetionStatements.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/RepetionStatements/obj/Debug/net6.0/ref/RepetionStatements.dll

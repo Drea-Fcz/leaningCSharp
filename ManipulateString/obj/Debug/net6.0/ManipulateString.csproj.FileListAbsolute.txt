@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/bin/Debug/net6.0/ManipulateString
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/bin/Debug/net6.0/ManipulateString.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/bin/Debug/net6.0/ManipulateString.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/bin/Debug/net6.0/ManipulateString.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/bin/Debug/net6.0/ManipulateString.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/refint/ManipulateString.dll
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ManipulateString.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/ManipulateString/obj/Debug/net6.0/ref/ManipulateString.dll

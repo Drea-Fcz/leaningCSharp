@@ -1,0 +1,15 @@
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/bin/Debug/net6.0/VariablesAndDatatypes
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/bin/Debug/net6.0/VariablesAndDatatypes.deps.json
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/bin/Debug/net6.0/VariablesAndDatatypes.runtimeconfig.json
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/bin/Debug/net6.0/VariablesAndDatatypes.dll
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/bin/Debug/net6.0/VariablesAndDatatypes.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.csproj.AssemblyReference.cache
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.AssemblyInfoInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.AssemblyInfo.cs
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.dll
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/refint/VariablesAndDatatypes.dll
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.pdb
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/VariablesAndDatatypes.genruntimeconfig.cache
+/Users/audreyfcz/Documents/C#/LearningProject/VariablesAndDatatypes/obj/Debug/net6.0/ref/VariablesAndDatatypes.dll
